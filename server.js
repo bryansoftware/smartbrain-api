@@ -8,7 +8,7 @@ const db = require('knex')({
     port: 5432,
     user: 'postgres',
     password: '',
-    database: 'smart-brain',
+    database: '',
   },
 });
 
